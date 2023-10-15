@@ -1,4 +1,3 @@
-# fishspikes
 
 This GitHub repository contains the code developed during a hackathon organized by [SmartNets](www.smartnets-etn.eu). 
 
